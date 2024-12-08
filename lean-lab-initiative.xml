@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lean-lab-initiative">
+    <title>Asante Ashland Community Hospital Lean Lab Initiative</title>
+    <body>
+        <section>
+            <title>Overview</title>
+            <p>Asante Ashland Community Hospital collaborated with Beckman Coulter to address lab-related inefficiencies, including long patient wait times, delayed order filing, and lost or duplicate orders. These issues affected both patient experience and hospital workflows.</p>
+        </section>
+        <section>
+            <title>Solution</title>
+            <p>The hospital implemented a HIPAA-compliant digital order management system and integrated Meditech scheduling software to streamline processes. Staff were trained on standardized procedures to ensure smooth adoption.</p>
+            <steps>
+                <step>Scan faxed orders into a centralized digital system.</step>
+                <step>Index orders by patient name and date of birth for easy access.</step>
+                <step>Integrate Meditech to create patient accounts for each order.</step>
+                <step>Train staff on policies and procedures using competency checklists.</step>
+            </steps>
+        </section>
+        <section>
+            <title>Results</title>
+            <p>Order wait times decreased from 200 minutes to 80 minutes, and patient registration wait times improved significantly. The hospital achieved a sustainable improvement in operational efficiency and patient care quality.</p>
+        </section>
+    </body>
+</topic>
